@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-
-#
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx)](https://github.com/sveenxx/github-readme-stats)
